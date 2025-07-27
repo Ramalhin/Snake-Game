@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jogo da Cobrinha - Pixel Art</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="game-container">
+        <div class="game-header">
+            <h1 class="game-title">🐍 COBRINHA PIXEL</h1>
+            <div class="score-container">
+                <span class="score-label">Pontuação:</span>
+                <span id="score" class="score">0</span>
+            </div>
+            <div class="high-score-container">
+                <span class="high-score-label">Recorde:</span>
+                <span id="highScore" class="high-score">0</span>
+            </div>
+        </div>
+        
+        <div class="game-area">
+            <canvas id="gameCanvas" width="800" height="600"></canvas>
+            <div class="game-overlay" id="gameOverlay">
+                <div class="overlay-content">
+                    <h2 id="overlayTitle">JOGO DA COBRINHA</h2>
+                    <p id="overlayMessage">Pressione ESPAÇO para começar</p>
+                    <div class="controls-info">
+                        <p>🔄 ESPAÇO - Iniciar/Pausar</p>
+                        <p>⬆️⬇️⬅️➡️ - Mover</p>
+                        <p>R - Reiniciar</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="game-footer">
+            <div class="stats">
+                <div class="stat">
+                    <span class="stat-label">Velocidade:</span>
+                    <span id="speed" class="stat-value">1</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-label">Tamanho:</span>
+                    <span id="size" class="stat-value">1</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script src="game.js"></script>
+</body>
+</html> 
