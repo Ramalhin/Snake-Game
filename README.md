@@ -1,6 +1,6 @@
 # 🐍 Jogo da Cobrinha - Pixel Art
 
-Um jogo da cobrinha clássico com interface pixelizada inspirada no estilo Dead Cells e fundo estilo Stardew Valley.
+Um jogo da cobrinha clássico com interface pixelizada inspirada e agradável
 
 ## 🎮 Como Jogar
 
@@ -10,7 +10,7 @@ Um jogo da cobrinha clássico com interface pixelizada inspirada no estilo Dead 
 - **R** - Reiniciar o jogo
 
 ### Objetivo
-Coma as comidas para crescer e ganhar pontos! Evite bater nas paredes ou no próprio corpo.
+Coma as comidas para crescer e ganhar pontos! Evite bater nas paredes ou no próprio corpo.(O comum do jogo).
 
 ## ✨ Características
 
@@ -20,7 +20,7 @@ Coma as comidas para crescer e ganhar pontos! Evite bater nas paredes ou no pró
 - Sprites pixelizados e efeitos visuais
 - Animações suaves e partículas
 
-### 🍎 Tipos de Comida
+### 🍎 Tipos de Comida (Pra SAIR do comum apesar do jogo ser comum)
 - **Comida Normal (Dourada)** - 10 pontos
 - **Comida de Velocidade (Vermelha)** - 20 pontos + aumenta velocidade
 - **Comida de Tamanho (Ciano)** - 20 pontos + aumenta tamanho da cobra
