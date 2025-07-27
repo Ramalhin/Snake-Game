@@ -67,4 +67,4 @@ Coma as comidas para crescer e ganhar pontos! Evite bater nas paredes ou no pró
 
 ---
 
-**Desenvolvido com ❤️ em JavaScript puro** 
+**Desenvolvido com JavaScript puro** 
